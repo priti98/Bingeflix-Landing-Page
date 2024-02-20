@@ -1,1 +1,1 @@
-# Netflix-Landing-Page
+# Bingeflix-Landing-Page
